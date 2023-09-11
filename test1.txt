@@ -1,0 +1,6 @@
+cache memory
+a small, fast memory used to hold selected data and to provide faster access than would otherwise be possible
+LRU policy
+Least-recently-used; a page-replacement policy that removes from main memory the pages that show the least amount of recent activity
+thread
+portion of program that can run independently of other portions
