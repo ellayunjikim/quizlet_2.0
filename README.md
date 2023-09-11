@@ -1,7 +1,7 @@
-<h1 align="center">213 Final Project: Flashcard Game</h1>
+<h1 align="center">Grinnell Quizlet 2.0:The Flashcard Game</h1>
 <h3>Authors: Ella Kim, Caitlin Abreu</h3>
 <h3>Date: May 16th, 2022</h3>
-<h4>Acknowledgements: Code for `message.c` and `socket.h` is from CSC213 Class Exercise: Networking</h4>
+<h4>Acknowledgements: Code for `message.c` is from OS and Parallel Computing course Class Exercise: Networking</h4>
 
 <br>
 <p><h2>Getting Started</h2>
