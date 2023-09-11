@@ -1,6 +1,6 @@
 <h1 align="center">213 Final Project: Flashcard Game</h1>
 <h3>Authors: Ella Kim, Caitlin Abreu</h3>
-<h3>Date: December 16th, 2022</h3>
+<h3>Date: May 16th, 2022</h3>
 <h4>Acknowledgements: Code for `message.c` and `socket.h` is from CSC213 Class Exercise: Networking</h4>
 
 <br>
